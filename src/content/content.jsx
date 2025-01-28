@@ -1,15 +1,15 @@
-import logo from "../assets/imgs/logo/logo.png";
-import heroImg from "../assets/imgs/hero/lawHero.jpg";
+import logo from "../assets/imgs/logo/logo.webp";
+import heroImg from "../assets/imgs/hero/lawHero.webp";
 import bgHeroImg from "../assets/imgs/hero/bgHero.webp";
 
 import imgFeatures from "../assets/imgs/features/imgServices.jpg";
 import imgDivisor from "../assets/imgs/features/imgDivisor.jpg";
 
-import aboutImg1 from "../assets/imgs/about/aboutImg.jpg";
+import aboutImg1 from "../assets/imgs/about/aboutImg.webp";
 import aboutSocial from "../assets/imgs/about/aboutSocial.jpg";
 import aboutSocialImg from "../assets/imgs/about/aboutSocial.png";
 
-import imgSteps from "../assets/imgs/steps/imgSteps.jpg";
+import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 
 import numbersImgBg from "../assets/imgs/paralaxe/bgParalaxe1.jpg";
 
@@ -17,15 +17,15 @@ import trustedByImg1 from "../assets/imgs/trustedBy/item1.jpg";
 import trustedByImg2 from "../assets/imgs/trustedBy/item2.jpg";
 import trustedByImg3 from "../assets/imgs/trustedBy/item3.jpg";
 
-import featuresImg1 from "../assets/imgs/features/featuresImg1.jpg";
-import featuresImg2 from "../assets/imgs/features/featuresImg2.jpg";
-import featuresImg3 from "../assets/imgs/features/featuresImg3.jpg";
-import featuresImg4 from "../assets/imgs/features/featuresImg4.jpg";
+import featuresImg1 from "../assets/imgs/features/featuresImg1.webp";
+import featuresImg2 from "../assets/imgs/features/featuresImg2.webp";
+import featuresImg3 from "../assets/imgs/features/featuresImg3.webp";
+import featuresImg4 from "../assets/imgs/features/featuresImg4.webp";
 
-import imgFeaturesCardModal1 from "../assets/imgs/features/featuresImg1.jpg";
-import imgFeaturesCardModal2 from "../assets/imgs/features/featuresImg2.jpg";
-import imgFeaturesCardModal3 from "../assets/imgs/features/featuresImg3.jpg";
-import imgFeaturesCardModal4 from "../assets/imgs/features/featuresImg4.jpg";
+import imgFeaturesCardModal1 from "../assets/imgs/features/featuresImg1.webp";
+import imgFeaturesCardModal2 from "../assets/imgs/features/featuresImg2.webp";
+import imgFeaturesCardModal3 from "../assets/imgs/features/featuresImg3.webp";
+import imgFeaturesCardModal4 from "../assets/imgs/features/featuresImg4.webp";
 
 import ctaWhatsappImgBg from "../assets/imgs/paralaxe/bgParalaxe2.jpg";
 
