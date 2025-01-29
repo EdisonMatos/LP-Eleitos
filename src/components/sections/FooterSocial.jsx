@@ -380,7 +380,7 @@ export default function FooterSocial({
             <p className="w-full opacity-75">
               {content.texts.footer.copyrightLine}
             </p>
-            <p>
+            {/* <p>
               <a
                 className="transition hover:underline"
                 target="_blank"
@@ -389,7 +389,7 @@ export default function FooterSocial({
                 {" "}
                 {content.texts.infos.footerDivulgacaoText}
               </a>
-            </p>
+            </p> */}
           </div>
         </SectionWrapper>
       </SectionArea>
